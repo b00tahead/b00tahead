@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Scott 👋
 
-<!--
-**b00tahead/b00tahead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a UX Engineer and Design System Lead passionate about building scalable, accessible, and human-centered digital experiences.
 
-Here are some ideas to get you started:
+- 🔧 I specialize in UX system architecture, Figma-to-code workflows, design token management, and React and Tailwind component development.
+- 🎨 Currently leading the design system initiative for internal applications at UK HealthCare.
+- 📚 Advocate for accessibility (WCAG), design consistency, and empowering teams through systems thinking.
+- 🛠️ In my spare time, I experiment with multi-theme systems, design token automation, and emerging frontend frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always happy to collaborate, learn, and help others build better digital products!
+
+<!-- Links -->
+[Portfolio](https://scottmay.dev/) • [LinkedIn](https://www.linkedin.com/in/mayscott)
